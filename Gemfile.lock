@@ -191,7 +191,7 @@ DEPENDENCIES
   haml (~> 4.0.6)
   jbuilder (~> 2.0)
   jquery-rails
-  masonry-rails (~> 0.2.4)
+  masonry-rails (~> 0.2p.4)
   paperclip (~> 4.2.1)
   rails (= 4.2.0)
   sass-rails (>= 3.2)
