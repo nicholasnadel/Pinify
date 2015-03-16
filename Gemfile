@@ -14,6 +14,7 @@ gem 'sass-rails', '>= 3.2'
 gem 'simple_form', '~> 3.1.0'
 gem 'devise', '~> 3.4.1'
 gem 'paperclip', '~> 4.2.1'
+gem 'masonry-rails', '~> 0.2.4'
 
 group :development, :test do
   gem 'byebug'
