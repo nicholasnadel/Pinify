@@ -18,14 +18,14 @@ gem 'masonry-rails', '~> 0.2p.4'
 gem 'acts_as_votable', '~> 0.10.0'
 gem 'rails-simple-search'
 
-group :development, :test do
-  gem 'byebug'
 
+group :development do
+  gem 'byebug'
   gem 'web-console', '~> 2.0'
   gem 'spring'
 end
 
 group :production do
-  gem 'pg', '0.15.1'
   gem 'rails_12factor'
+  gem 'pg'
 end
