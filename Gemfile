@@ -2,7 +2,6 @@ source 'https://rubygems.org'
 
 gem 'haml', '~> 4.0.6'
 gem 'rails', '4.2.0'
-gem 'sqlite3'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
@@ -18,14 +17,14 @@ gem 'masonry-rails', '~> 0.2p.4'
 gem 'acts_as_votable', '~> 0.10.0'
 gem 'rails-simple-search'
 
+group :production do
+  gem 'rails_12factor'
+  gem 'pg'
+end
 
 group :development do
   gem 'byebug'
   gem 'web-console', '~> 2.0'
   gem 'spring'
-end
-
-group :production do
-  gem 'rails_12factor'
-  gem 'pg'
+  gem 'sqlite3'
 end

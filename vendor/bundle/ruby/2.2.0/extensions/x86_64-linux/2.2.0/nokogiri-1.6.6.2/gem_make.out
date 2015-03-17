@@ -1,4 +1,4 @@
-/home/nicholas/.rvm/rubies/ruby-2.2.0/bin/ruby -r ./siteconf20150316-20315-8pp21q.rb extconf.rb 
+/home/nicholas/.rvm/rubies/ruby-2.2.0/bin/ruby -r ./siteconf20150316-21692-1l9yr7w.rb extconf.rb 
 checking if the C compiler accepts ... *** extconf.rb failed ***
 Could not create Makefile due to some reason, probably lack of necessary
 libraries and/or headers.  Check the mkmf.log file for more details.  You may
