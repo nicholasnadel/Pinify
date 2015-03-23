@@ -2,6 +2,6 @@
 
 ##A Pinterest Clone Riding on Rails
 
-![](/public/pinboard.png)
+![Pinify](/public/pinboard.png)
 
 
