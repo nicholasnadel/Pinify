@@ -1,7 +1,7 @@
-#[Niccit](http://pinify.herokuapp.com/pins/new)
+[Niccit](http://pinify.herokuapp.com/pins/new)
 
-##A Pinterest Clone Riding on Rails
+A Pinterest Clone Riding on Rails
 
-![Pinify](/public/pinboard.png)
+<img src="https://github.com/nicholasnadel/pinify-v2/blob/master/app/assets/images/pinboard.png?raw=true">
 
 
